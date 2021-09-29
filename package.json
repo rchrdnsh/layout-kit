@@ -7,9 +7,9 @@
     "preview": "svelte-kit preview"
   },
   "devDependencies": {
-    "@sveltejs/adapter-netlify": "^1.0.0-next.29",
-    "@sveltejs/kit": "^1.0.0-next.173",
-    "svelte": "^3.42.6"
+    "@sveltejs/adapter-netlify": "next",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.43.0"
   },
   "type": "module"
 }
