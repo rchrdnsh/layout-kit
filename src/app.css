@@ -1,0 +1,19 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  background-color: #222;
+}
+
+h1 {
+  color: #eee;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.75;
+  color: #eee;
+}
